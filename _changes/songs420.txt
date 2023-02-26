@@ -1,2 +1,3 @@
 mods/weeks/VS Camellia ALT.json
 mods/weeks/Funkin' Aside.json
+mods/weeks/Vore Mod FNF.json
