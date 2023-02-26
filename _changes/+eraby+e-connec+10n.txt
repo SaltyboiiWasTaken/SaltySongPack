@@ -1,0 +1,6 @@
+mods/data/+eraby+e-connec+10n/+eraby+e-connec+10n-c-side.json
+mods/data/+eraby+e-connec+10n/+eraby+e-connec+10n-hard.json
+mods/songs/+eraby+e-connec+10n/Voices.ogg
+mods/songs/+eraby+e-connec+10n/Inst.ogg
+mods/songs/+eraby+e-connec+10n/voices.ogg
+mods/songs/+eraby+e-connec+10n/inst.ogg

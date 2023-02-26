@@ -1,0 +1,6 @@
+mods/data/satellite/satellite-c-side.json
+mods/data/satellite/satellite-hard.json
+mods/songs/satellite/Voices.ogg
+mods/songs/satellite/Inst.ogg
+mods/songs/satellite/voices.ogg
+mods/songs/satellite/inst.ogg

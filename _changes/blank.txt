@@ -1,0 +1,6 @@
+mods/data/blank/blank-c-side.json
+mods/data/blank/blank-hard.json
+mods/songs/blank/Voices.ogg
+mods/songs/blank/Inst.ogg
+mods/songs/blank/voices.ogg
+mods/songs/blank/inst.ogg

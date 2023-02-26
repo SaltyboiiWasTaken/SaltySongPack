@@ -1,0 +1,6 @@
+mods/data/for-the-delta/for-the-delta-c-side.json
+mods/data/for-the-delta/for-the-delta-hard.json
+mods/songs/for-the-delta/Voices.ogg
+mods/songs/for-the-delta/Inst.ogg
+mods/songs/for-the-delta/voices.ogg
+mods/songs/for-the-delta/inst.ogg

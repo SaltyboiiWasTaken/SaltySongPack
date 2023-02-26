@@ -1,0 +1,6 @@
+mods/data/doven/doven-c-side.json
+mods/data/doven/doven-hard.json
+mods/songs/doven/Voices.ogg
+mods/songs/doven/Inst.ogg
+mods/songs/doven/voices.ogg
+mods/songs/doven/inst.ogg

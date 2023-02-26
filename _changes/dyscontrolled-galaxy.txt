@@ -1,0 +1,6 @@
+mods/data/dyscontrolled-galaxy/dyscontrolled-galaxy-c-side.json
+mods/data/dyscontrolled-galaxy/dyscontrolled-galaxy-hard.json
+mods/songs/dyscontrolled-galaxy/Voices.ogg
+mods/songs/dyscontrolled-galaxy/Inst.ogg
+mods/songs/dyscontrolled-galaxy/voices.ogg
+mods/songs/dyscontrolled-galaxy/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/azure-vixen/azure-vixen-c-side.json
+mods/data/azure-vixen/azure-vixen-hard.json
+mods/songs/azure-vixen/Voices.ogg
+mods/songs/azure-vixen/Inst.ogg
+mods/songs/azure-vixen/voices.ogg
+mods/songs/azure-vixen/inst.ogg

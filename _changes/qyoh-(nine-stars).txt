@@ -1,0 +1,6 @@
+mods/data/qyoh-(nine-stars)/qyoh-(nine-stars)-c-side.json
+mods/data/qyoh-(nine-stars)/qyoh-(nine-stars)-hard.json
+mods/songs/qyoh-(nine-stars)/Voices.ogg
+mods/songs/qyoh-(nine-stars)/Inst.ogg
+mods/songs/qyoh-(nine-stars)/voices.ogg
+mods/songs/qyoh-(nine-stars)/inst.ogg

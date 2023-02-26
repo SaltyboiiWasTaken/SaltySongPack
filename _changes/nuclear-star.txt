@@ -1,0 +1,6 @@
+mods/data/nuclear-star/nuclear-star-c-side.json
+mods/data/nuclear-star/nuclear-star-hard.json
+mods/songs/nuclear-star/Voices.ogg
+mods/songs/nuclear-star/Inst.ogg
+mods/songs/nuclear-star/voices.ogg
+mods/songs/nuclear-star/inst.ogg

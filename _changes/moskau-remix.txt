@@ -1,0 +1,6 @@
+mods/data/moskau-remix/moskau-remix-c-side.json
+mods/data/moskau-remix/moskau-remix-hard.json
+mods/songs/moskau-remix/Voices.ogg
+mods/songs/moskau-remix/Inst.ogg
+mods/songs/moskau-remix/voices.ogg
+mods/songs/moskau-remix/inst.ogg

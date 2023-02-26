@@ -1,0 +1,6 @@
+mods/data/bug-collection/bug-collection-c-side.json
+mods/data/bug-collection/bug-collection-hard.json
+mods/songs/bug-collection/Voices.ogg
+mods/songs/bug-collection/Inst.ogg
+mods/songs/bug-collection/voices.ogg
+mods/songs/bug-collection/inst.ogg

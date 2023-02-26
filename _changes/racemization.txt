@@ -1,0 +1,6 @@
+mods/data/racemization/racemization-c-side.json
+mods/data/racemization/racemization-hard.json
+mods/songs/racemization/Voices.ogg
+mods/songs/racemization/Inst.ogg
+mods/songs/racemization/voices.ogg
+mods/songs/racemization/inst.ogg

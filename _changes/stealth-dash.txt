@@ -1,0 +1,6 @@
+mods/data/stealth-dash/stealth-dash-c-side.json
+mods/data/stealth-dash/stealth-dash-hard.json
+mods/songs/stealth-dash/Voices.ogg
+mods/songs/stealth-dash/Inst.ogg
+mods/songs/stealth-dash/voices.ogg
+mods/songs/stealth-dash/inst.ogg

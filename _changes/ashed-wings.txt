@@ -1,0 +1,6 @@
+mods/data/ashed-wings/ashed-wings-c-side.json
+mods/data/ashed-wings/ashed-wings-hard.json
+mods/songs/ashed-wings/Voices.ogg
+mods/songs/ashed-wings/Inst.ogg
+mods/songs/ashed-wings/voices.ogg
+mods/songs/ashed-wings/inst.ogg

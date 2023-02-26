@@ -1,0 +1,6 @@
+mods/data/galaxy-burst/galaxy-burst-c-side.json
+mods/data/galaxy-burst/galaxy-burst-hard.json
+mods/songs/galaxy-burst/Voices.ogg
+mods/songs/galaxy-burst/Inst.ogg
+mods/songs/galaxy-burst/voices.ogg
+mods/songs/galaxy-burst/inst.ogg

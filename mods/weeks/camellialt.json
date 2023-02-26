@@ -1,0 +1,31 @@
+{
+	"difficulties":"",
+	"category":"VS Camellia ALT",
+	"hideFreeplay":false,
+	"startUnlocked":true,
+	"songs":[
+		//Tutorial
+		["Moskau Remix", "Hard, C-Side"],
+		//Week 1
+		["Doven", "Hard, C-Side"],
+		["For the DELTA", "Hard, C-Side"],
+		["Stealth-Dash", "Hard, C-Side"],
+		//Week 2
+		["bug collection", "Hard, C-Side"],
+		["SATELLITE", "Hard, C-Side"],
+		["Racemization", "Hard, C-Side"],
+		//Week 3
+		["NUCLEAR-STAR", "Hard, C-Side"],
+		["For the DELTA Remix", "Hard, C-Side"],
+		["+ERABY+E CONNEC+10N", "Hard, C-Side"],
+		//Act 1 Conclusion
+		["Qyoh (Nine Stars)", "Hard, C-Side"],
+		//Freeplay Bonuses
+		["Azure Vixen", "Hard, C-Side"],
+		["Ashed Wings", "Hard, C-Side"],
+		["Dyscontrolled Galaxy", "Hard, C-Side"],
+		["GALAXY BURST", "Hard, C-Side"],
+		//Huh??
+		["blank", "Hard, C-Side"]
+	]
+}
