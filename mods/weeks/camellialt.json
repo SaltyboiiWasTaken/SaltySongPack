@@ -5,27 +5,27 @@
 	"startUnlocked":true,
 	"songs":[
 		//Tutorial
-		["Moskau Remix", "Hard, C-Side"],
+		["moskau-remix", "hard, c-Side"],
 		//Week 1
-		["Doven", "Hard, C-Side"],
-		["For the DELTA", "Hard, C-Side"],
-		["Stealth-Dash", "Hard, C-Side"],
+		["doven", "hard, c-side"],
+		["for-the-delta", "hard, c-Side"],
+		["stealth-dash", "hard, c-Side"],
 		//Week 2
-		["bug collection", "Hard, C-Side"],
-		["SATELLITE", "Hard, C-Side"],
-		["Racemization", "Hard, C-Side"],
+		["bug-collection", "hard, c-Side"],
+		["satellite", "hard, c-side"],
+		["racemization", "hard, c-Side"],
 		//Week 3
-		["NUCLEAR-STAR", "Hard, C-Side"],
-		["For the DELTA Remix", "Hard, C-Side"],
-		["+ERABY+E CONNEC+10N", "Hard, C-Side"],
+		["nuclear-star", "hard, c-side"],
+		["for-the-delta-remix", "hard, c-Side"],
+		["+eraby+e-connec+10n", "hard, c-Side"],
 		//Act 1 Conclusion
-		["Qyoh (Nine Stars)", "Hard, C-Side"],
+		["qyoh-(nine-stars)", "hard, c-Side"],
 		//Freeplay Bonuses
-		["Azure Vixen", "Hard, C-Side"],
-		["Ashed Wings", "Hard, C-Side"],
-		["Dyscontrolled Galaxy", "Hard, C-Side"],
-		["GALAXY BURST", "Hard, C-Side"],
+		["azure-vixen", "hard, c-Side"],
+		["ashed-wings", "hard, c-Side"],
+		["dyscontrolled-galaxy", "hard, c-Side"],
+		["galaxy-burst", "hard, c-Side"],
 		//Huh??
-		["blank", "Hard, C-Side"]
+		["blank", "hard, c-Side"]
 	]
 }
