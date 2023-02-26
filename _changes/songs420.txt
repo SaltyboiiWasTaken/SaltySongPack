@@ -1,1 +1,1 @@
-mods/weeks/camellialt.json
+mods/weeks/camelliaalt.json
