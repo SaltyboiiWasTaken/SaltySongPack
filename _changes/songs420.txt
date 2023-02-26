@@ -1,1 +1,2 @@
 mods/weeks/VS Camellia ALT.json
+mods/weeks/Funkin' Aside.json
