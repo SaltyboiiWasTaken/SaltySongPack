@@ -1,4 +1,4 @@
-mods/weeks/VS Camellia ALT.json
-mods/weeks/Vore Mod FNF.json
-mods/weeks/Funkin' Aside.json
 mods/weeks/Friday Night Funkin'.json
+mods/weeks/Funkin' Aside.json
+mods/weeks/Vore Mod FNF.json
+mods/weeks/VS Camellia ALT.json
